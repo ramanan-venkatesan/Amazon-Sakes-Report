@@ -5,7 +5,7 @@ This Power BI project presents a detailed analysis of Amazon sales data, providi
 
 ## Project Files
 - `AmazonSalesReport.pbix` - The main Power BI report file
-- `Amazon.xlsx` - Sample dataset used in the report
+- `Amazon.xlsx` - Sample dataset used in the report (Actual Dataset name may differ.)
 - `README.md` - Project documentation
 
 
