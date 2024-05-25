@@ -5,7 +5,7 @@ This Power BI project presents a detailed analysis of Amazon sales data, providi
 
 ## Project Files
 - `AmazonSalesReport.pbix` - The main Power BI report file
-- `SalesData.csv` - Sample dataset used in the report
+- `Amazon.xlsx` - Sample dataset used in the report
 - `README.md` - Project documentation
 
 
@@ -24,9 +24,9 @@ This Power BI project presents a detailed analysis of Amazon sales data, providi
    - Use the filters to analyze data by different categories, time periods, and customer segments.
 
 ## Data Source
-- The sample data provided (`SalesData.csv`) is a simulated dataset used to demonstrate the functionality of the report.
+- The sample data provided (`Amazon.xlsx`) is a simulated dataset used to demonstrate the functionality of the report.
 - To customize the report with your own data:
-  1. Replace `SalesData.csv` with your actual sales data file.
+  1. Replace `Amazon.xlsx` with your actual sales data file.
   2. Ensure the data structure matches the format used in the sample file.
   3. Refresh the data in Power BI to load your data into the report.
 
